@@ -9,8 +9,10 @@ dependencies = [
     "audb>=1.11.4",
     "bitsandbytes>=0.49.0",
     "cython>=3.2.4",
+    "dotenv>=0.9.9",
     "ml-dtypes==0.5.1",
     "nemo-toolkit[asr]>=2.6.0",
+    "openai>=2.14.0",
     "packaging>=24.2",
     "sentencepiece>=0.2.1",
 ]
